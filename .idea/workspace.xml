@@ -1,24 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="55d062af-6086-42a0-a310-62e83271206d" name="Default Changelist" comment="" />
+    <list default="true" id="55d062af-6086-42a0-a310-62e83271206d" name="Default Changelist" comment="goweb实战-gin框架实战 基础完毕">
+      <change afterPath="$PROJECT_DIR$/day07 表单实体绑定 get post json/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day16 gin访问操作数据库/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07  分组路由源代码分析/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day08  分组路由源代码分析/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08  JSON渲染输出/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day09  JSON渲染输出/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09 JSONP跨域和劫持/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day10 JSONP跨域和劫持/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day10 XML渲染/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day11 XML渲染/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11 HTML模板渲染/Gin实现/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day12 HTML模板渲染/Gin实现/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11 HTML模板渲染/传统实现/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day12 HTML模板渲染/传统实现/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day12 ProtoBuf 使用和源码分析原理实现/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day13 ProtoBuf 使用和源码分析原理实现/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13 中间件/自定义中间件/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day14 中间件/自定义中间件/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day13 中间件/身份认证HTTP Basic Authorization/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day14 中间件/身份认证HTTP Basic Authorization/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14 文件托管、反向代理百度网站、自实现API网关/API网关/gateway.go" beforeDir="false" afterPath="$PROJECT_DIR$/day15 文件托管、反向代理百度网站、自实现API网关/API网关/gateway.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14 文件托管、反向代理百度网站、自实现API网关/实现一个FTP服务器/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day15 文件托管、反向代理百度网站、自实现API网关/实现一个FTP服务器/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14 文件托管、反向代理百度网站、自实现API网关/文件托管/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day15 文件托管、反向代理百度网站、自实现API网关/文件托管/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14 文件托管、反向代理百度网站、自实现API网关/自定义托管内容类型/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day15 文件托管、反向代理百度网站、自实现API网关/自定义托管内容类型/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day14 文件托管、反向代理百度网站、自实现API网关/镜像百度网站/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/day15 文件托管、反向代理百度网站、自实现API网关/镜像百度网站/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1inujtBDZ0zY91QYUfHCY64MUOq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codesuger.com" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -26,19 +66,59 @@
       <recent name="D:\GoProjects\src\codesuger.org\goweb-gin" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="go build codesuger.org/goweb-gin/day01入门/gin使用" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build codesuger.org/goweb-gin/day16 gin访问操作数据库">
+    <configuration name="go build codesuger.org/goweb-gin/day07 表单实体绑定" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goweb-gin" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/day01入门/gin使用/main.go" />
-      <package value="codesuger.org/goweb-gin/day01入门/gin使用" />
+      <filePath value="$PROJECT_DIR$/day07 表单实体绑定/main.go" />
+      <package value="codesuger.org/goweb-gin/day07 表单实体绑定" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build codesuger.org/goweb-gin/day12 HTML模板渲染/Gin实现" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goweb-gin" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day12 HTML模板渲染/Gin实现/main.go" />
+      <package value="codesuger.org/goweb-gin/day12 HTML模板渲染/Gin实现" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build codesuger.org/goweb-gin/day16 gin访问操作数据库" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goweb-gin" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/day16 gin访问操作数据库/main.go" />
+      <package value="codesuger.org/goweb-gin/day16 gin访问操作数据库" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goweb-gin" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day07 表单实体绑定 get post json/main.go" />
+      <package value="codesuger.org/goweb-gin" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goweb-gin" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/day14 中间件/自定义中间件/main.go" />
+      <package value="codesuger.org/goweb-gin" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build codesuger.org/goweb-gin/day01入门/gin使用" />
+        <item itemvalue="Go Build.go build codesuger.org/goweb-gin/day16 gin访问操作数据库" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build codesuger.org/goweb-gin/day12 HTML模板渲染/Gin实现" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build codesuger.org/goweb-gin/day07 表单实体绑定" />
       </list>
     </recent_temporary>
   </component>
@@ -46,34 +126,77 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="goweb实战-gin框架实战 基础完毕" />
+    <option name="LAST_COMMIT_MESSAGE" value="goweb实战-gin框架实战 基础完毕" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="561" y="246" key="#Go_Modules" timestamp="1602556352052">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="561" y="246" key="#Go_Modules/0.0.1536.824@0.0.1536.824" timestamp="1602556352052" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602557711689">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602568154193">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602557711689" />
-    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1602558142079">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602568154193" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1602571975434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602558142079" />
-    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1602558142079">
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602571975434" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1602571975434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602558142079" />
-    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1602558142079">
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602571975434" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1602571975434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602558142079" />
-    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1602558142079">
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602571975434" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1602571975434">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602558142079" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602571975434" />
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1602560361267">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602560361267" />
+    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1602560361266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602560361266" />
+    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1602560361266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602560361266" />
+    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1602560361266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602560361266" />
     <state x="349" y="65" key="SettingsEditor" timestamp="1602558139927">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="65" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602558139927" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602558281801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602558281801" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="GoApplicationRunConfiguration">
+        <watch expression="*(*&quot;string&quot;)(824636217408)" />
+        <watch expression="*(*&quot;string&quot;)(824636217392)" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

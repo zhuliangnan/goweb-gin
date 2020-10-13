@@ -24,8 +24,11 @@ func main() {
 	//模板目录结构是这样的： html/user/index.html  html/admin/index.html html/product/index.html
 	//r.LoadHTMLFiles("html/**/*")
 	r.GET("/html", func(c *gin.Context) {
-		//使用的方式非常简单，通过c.HTML(200, "index.html", "flysnow_org")即可。
-		c.HTML(200, "index.html", "flysnow_org")
+		//使用的方式非常简单，通过c.HTML(200, "index.html", "codesuger.com")即可。
+		c.HTML(200, "index.html", gin.H{
+			"title":    "Gin教程",
+			"fullpath": "www.codesuger.com",
+		})
 	})
 
 	r.Run(":8080")
